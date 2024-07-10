@@ -1,7 +1,7 @@
 # Japan Visa Applications Analysis
 
 ## Overview
-This project provides a comprehensive Azure Data Engineering solution for processing and visualising the number of visa applications in Japan, using PySpark and Plotly. Spark clusters are configured within a Docker container on Azure Virtual Machine. The data, sourced from Kaggle.com, includes visa information in Japan from 2006 to 2017.
+This project provides a comprehensive Azure Data Engineering solution for processing and visualising the number of visa applications in Japan, using Azure Cloud Spark Cluster with PySpark and Plotly. Spark clusters are configured within a Docker container on Azure Virtual Machine. The data, sourced from Kaggle.com, includes visa information in Japan from 2006 to 2017.
 
 ## Project Goals
 - System Architecture: The spark master - worker architecture is configured within a Docker container on Azure Virtual Machine.
